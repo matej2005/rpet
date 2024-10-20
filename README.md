@@ -1,5 +1,7 @@
 # rpet
 
+stonožka
+
 legs: https://www.printables.com/model/920145-adjustable-height-support
 
 cutter: https://www.printables.com/model/491811-plastic-bottle-cutter-into-strips
