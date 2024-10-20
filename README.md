@@ -3,12 +3,12 @@
 MARS & SŠEB MODELY
 
 Představujeme Git stránku pro zdroje k modelům projektů studentů SŠEB[1] a spolku MARS[2]. <br>
-Využíváme globální modely z internetu nebo si vytváříme vlastní - všechny dokážete najít níže.
+Využíváme globální modely z internetu nebo si vytváříme vlastní - všechny odkazy dokážete najít níže.
 
 MARS & SSEB MODELS
 
 We introduce Git site offering links to the originals models, which we have used for our projects - students of SSEB[1] Highschool and Moravian Asociation of Robotics & Space[2]. <br> 
-We have used models globally accessible from internet or we created our own - we can find links to sources to all the models we are using down below.
+We have used models globally accessible from internet or we created our own - you can find links to sources to all the models we are using down below.
 
 legs: https://www.printables.com/model/920145-adjustable-height-support
 
