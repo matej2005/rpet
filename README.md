@@ -1,5 +1,8 @@
 # rpet
 
+
+Thist repo has been moved to: https://github.com/MARS-engineers/r-pet/tree/master
+
 MARS & SŠEB MODELY
 
 Představujeme Git stránku pro zdroje k modelům projektů studentů SŠEB[1] a spolku MARS[2]. <br>
